@@ -1,0 +1,6 @@
+https://blog.erickwendel.com.br/reimagining-rxjs-using-web-streams
+https://github.com/tc39/proposal-async-iterator-helpers
+https://github.com/tc39/proposal-iterator-helpers
+
+https://nodejs.org/docs/latest/api/stream.html#readablemapfn-options
+https://nodejs.org/docs/latest/api/stream.html#readablefilterfn-options
